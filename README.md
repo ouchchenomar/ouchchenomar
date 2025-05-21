@@ -1,45 +1,111 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is omar ouchchen
-=====================================================================================================================================
+# Hi there, I'm Omar Ouchchen 👋
 
-data analyst
-------------
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-ouchchen-11b579221)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ouchcheno@gmail.com)
 
-Greetings! I'm omar ouchchen, a dedicated engineering student on a journey of exploration at the intersection of technology and data. Currently immersed in the dynamic world of academia, I'm fueled by a passion for both the precision of engineering and the insights that data analysis can unveil.
+## 🚀 About Me
+Data Science & AI Engineering student at École des Sciences de l'Information (ESI) in Rabat, Morocco. I'm passionate about NLP, Large Language Models (LLMs), and building intelligent systems. My focus is on developing applications that leverage the latest advances in AI to solve real-world problems.
 
-* 🌍  I'm based in morocco
-* ✉️  You can contact me at [ouchchenomar@gmail.com](mailto:ouchchenomar@gmail.com)
-* 🤝  I'm open to collaborating on projects
-* ⚡  Within these repositories, you'll find a diverse collection of projects showcasing my skills in data analysis, visualization, and interpretation. From wrangling messy datasets to crafting compelling visualizations, each project represents a unique puzzle I've had the pleasure of solving.
+## 🛠️ Skills
 
-### Skills
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
+### 🧠 AI & Machine Learning
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-00599C?style=flat)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat)
+![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat)
+![LLMs](https://img.shields.io/badge/LLMs-00FFFF?style=flat)
+![RAG](https://img.shields.io/badge/RAG-74aa9c?style=flat)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
-</p>
+### 📊 Data & Analytics
+![Data Science](https://img.shields.io/badge/Data_Science-00599C?style=flat)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-025E8C?style=flat)
 
+### 🔧 Tools & Technologies
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
-### Socials
+## 📚 Featured Projects
 
-<p align="left"> <a href="https://www.github.com/ouchchenomar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/omar-ouchchen" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+### Système de Traçabilité Agricole du Maroc
+A comprehensive agricultural traceability system for Morocco that tracks, manages, and analyzes the entire agricultural production chain from producer to consumer. The system uses blockchain technology to ensure data authenticity and integrity.
 
-### Badges
+**Technologies:** Python, Dash/Plotly, Flask, SQLAlchemy, Blockchain, Bootstrap
 
-<b>My GitHub Stats</b>
+**Features:**
+- Interactive dashboard with real-time agricultural statistics
+- Producer and product management with blockchain security
+- QR code generation for rapid authentication
+- Region-based analytics and visualization
+- Distinction between organic and conventional products
 
-<a href="http://www.github.com/ouchchenomar"><img src="https://github-readme-stats.vercel.app/api?username=ouchchenomar&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ouchchenomar's GitHub stats" /></a>
-                      <a href="https://www.github.com/ouchchenomar" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-                    </picture>
-                    </a>
-                      <a href="https://www.linkedin.com/in/omar-ouchchen" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-                    </picture>
-                    </a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/ouchchenomar"><img src="https://github-readme-stats.vercel.app/api?username=ouchchenomar&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ouchchenomar's GitHub stats" /></a>
+### RAG (Retrieval-Augmented Generation) System
+A system combining knowledge base and open-source language models to enhance information retrieval and generation capabilities.
+
+**Technologies:** Python, FastAPI, scikit-learn, TF-IDF, GGUF (TinyLlama)
+
+**Features:**
+- Vector indexing and cosine similarity search
+- Knowledge base integration
+- Context-aware responses
+
+### Real Estate Price Prediction Model
+A regression model using ensemble methods to predict real estate prices with 85% accuracy.
+
+**Technologies:** Python, scikit-learn, Flask, Docker, Google Cloud Run
+
+**Features:**
+- Comparative analysis of models (Random Forest, polynomial regression, Ridge)
+- REST API deployment on Google Cloud Run
+- Interactive prediction interface
+
+### BI Dashboard for Sales Performance Analysis
+An interactive Power BI dashboard for tracking and analyzing sales performance.
+
+**Technologies:** Power BI, DAX, ETL
+
+**Features:**
+- Complex DAX measures for advanced performance indicators
+- Automated ETL transformations
+- Multi-source data integration
+
+## 📈 GitHub Stats
+
+[![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ouchchenomar&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ouchchenomar&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🎓 Education
+- **Engineering in Knowledge & Data Science** (2023-2026) - École des Sciences de l'Information (ESI), Rabat
+- **Preparatory Classes** (2021-2023) - Math-Physics, Morocco
+- **Scientific Baccalaureate** (2021) - Mathematics Option, Morocco
+
+## 🏆 Certifications
+- Machine Learning Specialization - Stanford (2024)
+- Python for Data Science - IBM (2023)
+- Google Data Analytics Certificate
+- Foundations: Data, Data, Everywhere - Google (2023)
+- Ask Questions to Make Data-Driven Decisions - Google (2024)
+- Databases & SQL for Data Science - Google
+- Agile Project Management - Google (2024)
+
+## 🌍 Languages
+- French
+- English
+- Arabic
+- Amazigh
+
+---
+
+💬 **I'm currently looking for a 2-month PFA internship (July-August 2025) in LLM technologies and conversational AI solutions.**
+
+📫 **Contact me:** ouchcheno@gmail.com
