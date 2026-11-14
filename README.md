@@ -3,7 +3,7 @@
 **Junior Data Engineer in Casablanca, Morocco.** I build data pipelines that are tested, documented and safe to rerun, from ingestion to reporting, with a focus on financial data and data quality.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ouchchenomar.github.io-1f6feb?style=for-the-badge)](https://ouchchenomar.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-ouchchen-11b579221)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-ouchchen)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ouchcheno@gmail.com)
 
 💬 **Looking for a full-time Data Engineering role.**
@@ -38,7 +38,7 @@ Star schema built from a raw CSV, checks in Power Query, DAX measures (sales, or
 
 ### Other projects
 - [RAG system](https://github.com/ouchchenomar/RAG_sys): semantic search (TF-IDF or Sentence Transformers) over PDF and TXT documents, a local GGUF LLM (TinyLlama, Mistral), a FastAPI API and a web interface.
-- [Real estate price prediction](https://github.com/ouchchenomar/ML_housse_prediction): comparison of regression models (Random Forest, Ridge, polynomial), a Flask API in Docker deployed on Google Cloud Run.
+- [Real estate price prediction](https://github.com/ouchchenomar/ML_housse_prediction): Linear, Ridge and Lasso regressions compared on California Housing, the best one served by a Flask API in Docker on Google Cloud Run.
 
 ## 💼 Experience
 
