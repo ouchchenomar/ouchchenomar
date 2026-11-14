@@ -75,7 +75,7 @@ Currently learning: PySpark, Databricks.
 
 - Oracle Cloud Infrastructure 2025 Certified Data Science Professional (Oracle, 2025)
 - Oracle Cloud Infrastructure 2025 Certified Foundations Associate (Oracle, 2025)
-- Machine Learning Specialization (Stanford / DeepLearning.AI, 2024)
+- Machine Learning Specialization, 3 courses (Stanford / DeepLearning.AI, 2024)
 - Exploratory Data Analysis for Machine Learning, with Honors (IBM, 2024)
 - Introduction to Power BI (DataCamp, 2025)
 - Agile Project Management (Google, 2024)
