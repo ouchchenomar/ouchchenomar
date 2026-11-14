@@ -106,6 +106,6 @@ An interactive Power BI dashboard for tracking and analyzing sales performance.
 
 ---
 
-💬 **I'm currently looking for a 2-month PFA internship (July-August 2025) in LLM technologies and conversational AI solutions.**
+💬 **Junior Data Engineer in Casablanca, looking for a full-time Data Engineering role.** Portfolio: [ouchchenomar.github.io](https://ouchchenomar.github.io/)
 
 📫 **Contact me:** ouchcheno@gmail.com
