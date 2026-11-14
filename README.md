@@ -1,111 +1,92 @@
-# Hi there, I'm Omar Ouchchen 👋
+# Hi, I'm Omar Ouchchen 👋
 
+**Junior Data Engineer in Casablanca, Morocco.** I build data pipelines that are tested, documented and safe to rerun, from ingestion to reporting, with a focus on financial data and data quality.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-ouchchenomar.github.io-1f6feb?style=for-the-badge)](https://ouchchenomar.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-ouchchen-11b579221)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ouchcheno@gmail.com)
 
-## 🚀 About Me
-Data Science & AI Engineering student at École des Sciences de l'Information (ESI) in Rabat, Morocco. I'm passionate about NLP, Large Language Models (LLMs), and building intelligent systems. My focus is on developing applications that leverage the latest advances in AI to solve real-world problems.
+💬 **Looking for a full-time Data Engineering role.**
+
+## 🚀 About me
+
+- State Engineering Degree (Master's level) in Knowledge Engineering and Data Science, ESI Rabat, July 2026.
+- Final-year internship in the Trading Room of Attijariwafa Bank (CIB): Python/SQL pipelines with Airflow and dbt, Bronze/Silver/Gold modeling in PostgreSQL, data quality checks and a data catalog.
+- Oracle Cloud Infrastructure certified (Data Science Professional and Foundations Associate, 2025).
+
+## 📚 Featured projects
+
+### [FDIC Bank Data Warehouse](https://github.com/ouchchenomar/fdic-bank-data-warehouse)
+Data warehouse for the quarterly filings of 4,547 U.S. banks (FDIC API): idempotent ingestion (SHA-256), data contract, revision history and SCD2, publication blocked if any of 65 dbt tests fails, daily Airflow orchestration and a Power BI dashboard. Totals are within 0.5% of the official FDIC figures.
+
+**Stack:** Python, PostgreSQL, dbt, Airflow, Power BI, Docker
+
+### [Counterparty Data Platform](https://github.com/ouchchenomar/counterparty-data-platform)
+Counterparty reference data fed by the GLEIF API (211 Moroccan LEIs, incremental ingestion). 7 dbt data quality rules tested against ground truth (64 of 64 anomalies detected, 0 false positives), golden record and quarantine.
+
+**Stack:** Python, dbt, DuckDB, Airflow
+
+### [Credit Risk Scoring & Portfolio Monitoring](https://github.com/ouchchenomar/Credit-Risk-Scoring-Portfolio-Monitoring)
+Credit scoring on synthetic data: 20+ data quality rules, 19 features, Random Forest (AUC 0.93), SHAP explainability, a FastAPI API, a Streamlit dashboard for the risk department and monthly drift monitoring (PSI). 38 tests.
+
+**Stack:** Python, scikit-learn, SHAP, FastAPI, Streamlit, Docker
+
+### [Power BI – Sales Tracking](https://github.com/ouchchenomar/PowerBI_Suivi_Ventes)
+Star schema built from a raw CSV, checks in Power Query, DAX measures (sales, orders, average order value) and the monthly revenue trend.
+
+**Stack:** Power BI, Power Query, DAX
+
+### Other projects
+- [RAG system](https://github.com/ouchchenomar/RAG_sys): semantic search (TF-IDF or Sentence Transformers) over PDF and TXT documents, a local GGUF LLM (TinyLlama, Mistral), a FastAPI API and a web interface.
+- [Real estate price prediction](https://github.com/ouchchenomar/ML_housse_prediction): comparison of regression models (Random Forest, Ridge, polynomial), a Flask API in Docker deployed on Google Cloud Run.
+
+## 💼 Experience
+
+- **Attijariwafa Bank – CIB, Trading Room, Casablanca** · Feb – Jun 2026 · Final-year internship, Data Engineering, Data Governance and BI. Onbor, an internal platform prototype that digitizes client onboarding: ETL/ELT pipelines (Python, SQL, Airflow, dbt), Bronze/Silver/Gold architecture in PostgreSQL, data quality checks and data catalog, FastAPI APIs, documentation and user acceptance tests.
+- **TAMWILCOM, Rabat** · Jul – Aug 2025 · Document AI assistant (RAG) on financial products: PDF extraction, embeddings, FAISS index, FastAPI backend, Streamlit interface.
+- **Doosys, Rabat** · Jul – Aug 2024 · Took part in requirements analysis and Odoo customization (document management), testing and user guides.
 
 ## 🛠️ Skills
 
-### 💻 Programming Languages
+**Data engineering**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
-### 🧠 AI & Machine Learning
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-00599C?style=flat)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat)
-![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat)
-![LLMs](https://img.shields.io/badge/LLMs-00FFFF?style=flat)
-![RAG](https://img.shields.io/badge/RAG-74aa9c?style=flat)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+**BI and data quality**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-555555?style=flat)
+![Data quality](https://img.shields.io/badge/Data_quality-2E7D32?style=flat)
+![Data catalog](https://img.shields.io/badge/Data_catalog-6A1B9A?style=flat)
 
-### 📊 Data & Analytics
-![Data Science](https://img.shields.io/badge/Data_Science-00599C?style=flat)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL-025E8C?style=flat)
-
-### 🔧 Tools & Technologies
+**Tools and cloud**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat&logo=oracle&logoColor=white)
+![Google Cloud Run](https://img.shields.io/badge/Google_Cloud_Run-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
-## 📚 Featured Projects
-
-### Système de Traçabilité Agricole du Maroc
-A comprehensive agricultural traceability system for Morocco that tracks, manages, and analyzes the entire agricultural production chain from producer to consumer. The system uses blockchain technology to ensure data authenticity and integrity.
-
-**Technologies:** Python, Dash/Plotly, Flask, SQLAlchemy, Blockchain, Bootstrap
-
-**Features:**
-- Interactive dashboard with real-time agricultural statistics
-- Producer and product management with blockchain security
-- QR code generation for rapid authentication
-- Region-based analytics and visualization
-- Distinction between organic and conventional products
-
-### RAG (Retrieval-Augmented Generation) System
-A system combining knowledge base and open-source language models to enhance information retrieval and generation capabilities.
-
-**Technologies:** Python, FastAPI, scikit-learn, TF-IDF, GGUF (TinyLlama)
-
-**Features:**
-- Vector indexing and cosine similarity search
-- Knowledge base integration
-- Context-aware responses
-
-### Real Estate Price Prediction Model
-A regression model using ensemble methods to predict real estate prices with 85% accuracy.
-
-**Technologies:** Python, scikit-learn, Flask, Docker, Google Cloud Run
-
-**Features:**
-- Comparative analysis of models (Random Forest, polynomial regression, Ridge)
-- REST API deployment on Google Cloud Run
-- Interactive prediction interface
-
-### BI Dashboard for Sales Performance Analysis
-An interactive Power BI dashboard for tracking and analyzing sales performance.
-
-**Technologies:** Power BI, DAX, ETL
-
-**Features:**
-- Complex DAX measures for advanced performance indicators
-- Automated ETL transformations
-- Multi-source data integration
-
-## 📈 GitHub Stats
-
-[![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ouchchenomar&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ouchchenomar&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🎓 Education
-- **Engineering in Knowledge & Data Science** (2023-2026) - École des Sciences de l'Information (ESI), Rabat
-- **Preparatory Classes** (2021-2023) - Math-Physics, Morocco
-- **Scientific Baccalaureate** (2021) - Mathematics Option, Morocco
+Currently learning: PySpark, Databricks.
 
 ## 🏆 Certifications
-- Machine Learning Specialization - Stanford (2024)
-- Python for Data Science - IBM (2023)
-- Google Data Analytics Certificate
-- Foundations: Data, Data, Everywhere - Google (2023)
-- Ask Questions to Make Data-Driven Decisions - Google (2024)
-- Databases & SQL for Data Science - Google
-- Agile Project Management - Google (2024)
+
+- Oracle Cloud Infrastructure 2025 Certified Data Science Professional (Oracle, 2025)
+- Oracle Cloud Infrastructure 2025 Certified Foundations Associate (Oracle, 2025)
+- Machine Learning Specialization (Stanford / DeepLearning.AI, 2024)
+- Exploratory Data Analysis for Machine Learning, with Honors (IBM, 2024)
+- Introduction to Power BI (DataCamp, 2025)
+- Agile Project Management (Google, 2024)
+- Python for Data Science, AI & Development (IBM, 2023)
+- Google courses: Foundations: Data, Data, Everywhere (2023) and Ask Questions to Make Data-Driven Decisions (2024)
+
+## 🎓 Education
+
+- **State Engineering Degree (Master's level), Knowledge Engineering and Data Science** · École des Sciences de l'Information (ESI), Rabat · 2023 – 2026
+- **Preparatory Classes (CPGE), Mathematics and Physics** · Lycée Prince Moulay Abdellah · 2021 – 2023
 
 ## 🌍 Languages
-- French
-- English
-- Arabic
-- Amazigh
 
----
-
-💬 **Junior Data Engineer in Casablanca, looking for a full-time Data Engineering role.** Portfolio: [ouchchenomar.github.io](https://ouchchenomar.github.io/)
-
-📫 **Contact me:** ouchcheno@gmail.com
+French: fluent (TCF 2025: C1 on the multiple-choice tests) · English: professional proficiency · Arabic · Amazigh
